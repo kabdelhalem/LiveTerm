@@ -72,7 +72,7 @@ Learn more about Docker [here](https://docs.docker.com/get-started/overview/ 'he
 
 90% of LiveTerm's configurations are done through the `config.json` file.
 
-```javascript
+<!-- ```javascript
 {
   "readmeUrl": // create a Github README and link it here!
   "title": // title of the website
@@ -96,7 +96,7 @@ Learn more about Docker [here](https://docs.docker.com/get-started/overview/ 'he
     }
   }
 }
-```
+``` -->
 
 Feel free to change it as you see fit!
 
