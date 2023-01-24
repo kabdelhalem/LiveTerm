@@ -1,21 +1,16 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Kareem's Terminal",
+  "name": "Kareem Abdelhalem",
+  "ascii": "Kareem Abdelhalem",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "kabdelhalem",
+    "linkedin": "kareem-abdelhalem"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "kareem.abdelhalem@gmail.com",
+  "ps1_hostname": "kareemsspace",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "resume_url": "https://docs.google.com/document/d/1esM8fpFYvvWVsJpt5ywZ_SaNE5kO4JiheavsLmBLNXM/edit?usp=sharing",
   "colors": {
     "light": {
       "background": "#FBF1C9",
